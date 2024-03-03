@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,ProductID,PurchaseAmount
+1,Female,28,101,42.50
+2,Male,35,102,63.00
+3,Female,45,103,17.80
+4,Male,32,104,25.20
+5,Female,22,105,157.50
+6,Male,40,106,71.00
+7,Female,33,107,26.25
+8,Male,50,108,35.75
+9,Female,29,109,8.90
+10,Male,38,110,105.00

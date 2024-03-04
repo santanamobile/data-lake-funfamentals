@@ -1,6 +1,6 @@
 # Data Lake Fundamentals
 
-Este repositório contém uma demonstração de um Data Lake utilizando Python e SQLite.
+Este repositório foi criado a partir dos exemplos do curso "Data Lake Fundamentals" da Udemy.
 
 ## Disclaimer
 

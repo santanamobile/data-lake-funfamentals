@@ -1,3 +1,4 @@
 datalake.db
-data-lake
-
+data-lake/
+data/
+main.py
